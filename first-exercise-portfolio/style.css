@@ -50,10 +50,23 @@ h1 {
 }
 
 .experience-item {
-    box-shadow: 10px 10px 40px gray;
-    border-radius: 10px;
     width: 40%;
+    height: 300px;
     margin-left: 5%;
     margin-right: 5%;
     padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 10px;
+}
+
+#full-dev {
+    border-left: 7px solid tomato;
+}
+
+#full-baby {
+    border-left: 7px solid blue;
+}
+
+footer {
+    text-align: center;
 }
